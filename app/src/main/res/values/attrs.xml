@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TopTabLayout">
+        <attr name="indicatorEnable" format="boolean"/>
+        <attr name="indicatorHeight" format="dimension"/>
+        <attr name="indicatorColor" format="color"/>
+        <attr name="dividerEnable" format="boolean"/>
+        <attr name="dividerType" format="enum">
+            <enum name="between" value="1"/>
+            <enum name="bottom" value="2"/>
+        </attr>
+        <attr name="dividerColor"/>
+        <attr name="dividerHeight" format="dimension"/>
+        <attr name="centerEnable" format="boolean"/>
+    </declare-styleable>
+</resources>

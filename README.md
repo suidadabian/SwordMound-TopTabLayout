@@ -1,2 +1,2 @@
 # TopTabLayout
-基于RecyclerView实现的顶部标签栏
+基于RecyclerView实现的顶部栏，拓展性强。
